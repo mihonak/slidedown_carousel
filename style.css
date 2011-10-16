@@ -1,0 +1,8 @@
+body {padding:20px;}
+.first{background:#D85196;}
+.second{background:#04B2D9;}
+.third{background:#51A67E;}
+
+div.carousel li div{
+	height:70px;
+}
